@@ -20,3 +20,8 @@ Selain itu, proyek ini juga mengimplementasikan pelacakan eksperimen (*experimen
 ## 🚀 Docker Hub URL
 Image hasil *build* CI/CD dari repository ini dapat ditarik (*pull*) secara publik melalui Docker Hub pada tautan berikut:
 `https://hub.docker.com/repository/docker/mysteryworld3/mlops-telco-model/general`
+
+## 👤 Author
+**Muhammad Mishbahul Muflihin** *informatics Engineering Student at Darussalam Gontor University*
+<br>
+ Email: [mishbahulmuflihin@gmail.com](mailto:mishbahulmuflihin@gmail.com)
